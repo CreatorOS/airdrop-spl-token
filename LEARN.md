@@ -47,7 +47,7 @@ This does not increase the total supply of the custom token.
 
 ## Subquest : Airdrop of tokens via Minting
 
-![Alt text](learn_src/learn_assets/airdrop-token.png?raw=true "Aidrop Token")
+![Alt text](/learn_src/learn_assets/airdrop-token.png?raw=true "Aidrop Token")
 
 ### Steps involved in Airdrop of Tokens in the next subquests
 
